@@ -1,0 +1,62 @@
+const colombia = [];
+colombia.push(
+    {
+        name:"MaryPaty",
+        salary:500,
+    }
+);
+colombia.push(
+    {
+        name:"Osmar",
+        salary:350,
+    }
+);
+colombia.push(
+    {
+        name:"Romina",
+        salary:550,
+    }
+);
+colombia.push(
+    {
+        name:"Alma",
+        salary:600,
+    }
+);
+colombia.push(
+    {
+        name:"Rommel",
+        salary:750,
+    }
+);
+colombia.push(
+    {
+        name:"Valeria",
+        salary:650,
+    }
+);
+colombia.push(
+    {
+        name:"Mayra",
+        salary:450,
+    }
+);
+colombia.push(
+    {
+        name:"Iracema",
+        salary:1000,
+    }
+);
+colombia.push(
+    {
+        name:"Erendira",
+        salary:800,
+    }
+);
+colombia.push(
+    {
+        name:"Ernesto",
+        salary:250,
+    }
+);
+
